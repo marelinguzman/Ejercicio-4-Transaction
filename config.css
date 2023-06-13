@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    max-width: 41.4rem;
+    margin: auto;
+    font-size: 10px;
+    font-family: 'Reem Kufi', sans-serif;
+}
+
+:root {
+    --color1: #000000;
+    --color2: #fff;
+    --color3: #E6E6E6;
+    --color4: #F9F9F9;
+
+}
